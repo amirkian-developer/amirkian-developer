@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django and MQL<br>🌱 I’m currently learning Data Analyst - ML and Ai<br>
+🔭 I’m currently working on Python and FastAPI - Django<br>🌱 I’m currently learning Data Analyst - ML and Ai<br>
 
 
 ## 🌐 Socials:
